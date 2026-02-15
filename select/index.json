@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "一途 (ALBUM ver.)",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-02-15T06:12:07.884275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一途",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_一途_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一途 (ALBUM ver.)",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_一途_(ALBUM_ver.)_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一途",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_一途_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一途",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/04_一途_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "一途 (ALBUM ver.) - Ichizu (ALBUM ver.)",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/05_一途_(ALBUM_ver.)_-_Ichizu_(ALBUM_ver.)_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "一途",
+      "artist": "(King Gnu)",
+      "has_synced": true,
+      "path": "select/06_一途_(King_Gnu).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ichizu 「一途」 (ALBUM ver.)",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/07_Ichizu_「一途」_(ALBUM_ver.)_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "King Gnu - 一途",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/08_King_Gnu_-_一途_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "一途 - Ichizu",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/09_一途_-_Ichizu_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "King Gnu - 一途",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/10_King_Gnu_-_一途_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ichizu 「一途」",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/11_Ichizu_「一途」_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一途",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_一途_King_Gnu.txt"
+    }
+  ]
+}
